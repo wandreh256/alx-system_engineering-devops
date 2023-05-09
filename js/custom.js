@@ -170,9 +170,9 @@ $(function() {
       transition: 'fade2',
       transitionDuration: 2000,
       slides: [
-        { src: "https://dummyimage.com/960x1440/636363/ffffff" },
-        { src: "https://dummyimage.com/960x1440/636363/ffffff" },
-        { src: "https://dummyimage.com/960x1440/636363/ffffff" }
+        { src: "img/ug.jpg" },
+        { src: "img/ug.jpg" },
+        { src: "img/ug.jpg" }
       ],
       animation: [ 'kenburnsUp', 'kenburnsDown', 'kenburnsLeft', 'kenburnsRight' ]
     });
